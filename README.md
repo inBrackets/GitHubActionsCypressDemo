@@ -9,4 +9,4 @@
 
 This version of todomvc is adapted from https://github.com/Rich-Harris/rollup-todomvc
 
-random push count:0
+random push count:1
