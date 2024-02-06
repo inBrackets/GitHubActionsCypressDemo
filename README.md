@@ -1,1 +1,0 @@
-zadanie domowe 2
