@@ -21,5 +21,4 @@ jobs:
       - name: Cypress run
         uses: cypress-io/github-action@v6
         with:
-          build: npm install
           start: npm run moj:super:skrypt:xyz
